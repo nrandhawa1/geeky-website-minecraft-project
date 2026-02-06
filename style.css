@@ -13,7 +13,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #000000;
+  background-color: #222222bd;
 }
 
 ul li {
@@ -27,10 +27,11 @@ ul li:last-child {
 
 ul li a {
   display: block;
-  color: white;
+  color: rgb(255, 254, 254);
   text-align: center;
-  padding: 14px 16px;
+  padding: 20px 124.4px;
   text-decoration: none;
+  font-size: 20px;
 }
 
 ul li a:hover:not(.active) {
