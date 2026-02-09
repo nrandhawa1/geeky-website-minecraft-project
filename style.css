@@ -56,3 +56,7 @@ main {
   max-width: 900px;
   margin: auto;
 }
+
+h3 {
+  margin: 20px;
+}
